@@ -3,36 +3,42 @@
 
   <url>
     <loc>https://hellokids.rs/</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
     <loc>https://hellokids.rs/o-nama.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <url>
     <loc>https://hellokids.rs/ponuda.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <url>
     <loc>https://hellokids.rs/galerija.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
     <loc>https://hellokids.rs/faq.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <url>
     <loc>https://hellokids.rs/kontakt.html</loc>
+    <lastmod>2025-12-09</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
