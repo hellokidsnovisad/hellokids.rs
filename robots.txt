@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Blokiranje nepotrebnih sistemskih foldera (ako budu kreirani u budućnosti)
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /admin/
+
+# Lokacija sitemap fajla
+Sitemap: https://hellokids.rs/sitemap.xml
